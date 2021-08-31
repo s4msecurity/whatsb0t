@@ -10,7 +10,7 @@ print("""
  ||* This software is used to automatically send messages in whatsapp.
  ||* Designed for joke purposes.
  ||* Illegal use belongs to the user.
- ||* SammySec whatSb0t version: 1.0 new version AhmmySec
+ ||* S4m whatSb0t version: 1.0 new version
  ===================================================>>>
  """)
 
